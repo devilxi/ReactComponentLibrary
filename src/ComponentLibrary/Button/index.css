@@ -1,0 +1,10 @@
+.xButton{
+    display: inline-block;
+    height: 34px;
+    line-height: 34px;
+    width: 64px;
+    background-color: #10A310;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 4px;
+}

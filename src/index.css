@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.containter{
+    display: flex;
+}
+.containter-center{
+    width: 80%;
+    margin: auto;
+}
+.title{
+    text-align: center;
+}
